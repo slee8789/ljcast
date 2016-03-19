@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LJCast</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_pikicast">pikicast</string>
+    <string name="drawer_home">홈</string>
+    <string name="drawer_best">베스트</string>
+    <string name="drawer_pikitoon">피키툰</string>
+    <string name="drawer_gola">골라보기</string>
+    <string name="drawer_settings">설정</string>
+</resources>
